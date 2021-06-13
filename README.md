@@ -5,7 +5,7 @@ I find myself most passionate about helping people learn about technology and ho
 These days I'm happily mixing it up and focusing on open source and the web. Would love to hear what you're up to, too!
 
 - 🔭 I’m currently working on [**Project Evergreen**](https://github.com/ProjectEvergreen) and [**Greenwood**](https://github.com/ProjectEvergreen/greenwood)
-- 🌱 I’m currently learning about [SSR and Web Components](https://github.com/ProjectEvergreen/greenwood/discussions/576) and [Serverless SSG]()
+- 🌱 I’m currently learning about [SSR and Web Components](https://github.com/ProjectEvergreen/greenwood/discussions/576) and [Serverless SSG](https://github.com/ProjectEvergreen/greenwood/discussions/626)
 - 👯 I’m looking to collaborate on web standards (WHATWG, TC39, NodeJS WGs, etc)
 - 🤔 I’m looking for help with anything you see in my profile. [**Contributary**](https://www.contributary.community) I think is a fun project!
 - 💬 Ask me about getting started with web development!
